@@ -1,0 +1,8 @@
+galaxy_info:
+  author: alexperez (alexperez@paradigmadigital.com)
+  description:
+  min_ansible_version: 2.3
+  license: GPLv3
+  galaxy_tags:
+    # Maximum 20 tags
+    dependencies: []
