@@ -1,0 +1,7 @@
+---
+- name: Create or delete tag
+  ec2_tag:
+    region   : '{{ resource.region }}'
+    resource : '{{ resource.id }}'
+    tags     : "{{ resource.tags }}"
+    tags     : "{{ resource.state }}"

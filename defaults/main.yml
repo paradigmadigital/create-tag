@@ -1,0 +1,6 @@
+---
+# defaults file for create-tag
+resource      :
+  id          :
+  region      :
+  tags        :
