@@ -12,6 +12,7 @@ Settable variables that are in defaults/main.yml.
   * `id`          : id of the resource
   * `region`      : AWS region
   * `tags`        : dictionary containg the tags
+  * `state`       : present to add tags, absent to delete them
 
 Example Playbook
 ----------------

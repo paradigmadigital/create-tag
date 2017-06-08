@@ -4,3 +4,4 @@
     region   : '{{ resource.region }}'
     resource : '{{ resource.id }}'
     tags     : "{{ resource.tags }}"
+    tags     : "{{ resource.state }}"
