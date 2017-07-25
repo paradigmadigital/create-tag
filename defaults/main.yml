@@ -4,3 +4,4 @@ resource      :
   id          :
   region      :
   tags        :
+  state       :
